@@ -39,7 +39,7 @@ h1{
     color: white;
 }
 p{
-    color: rgb(20, 172, 214);
+    color: white;
     font-size: 20px;
 }
 h2{
@@ -101,5 +101,9 @@ box-shadow: 20px 10px 30px gray;
 background-color: antiquewhite;  
 }
 #shelter{
-    
+    background-color: cadetblue;
+
+}
+#education{
+    background-color: aquamarine;
 }
