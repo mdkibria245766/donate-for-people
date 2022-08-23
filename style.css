@@ -1,0 +1,105 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.text-center{
+    text-align: center;
+}
+.banner-section{
+    width: 1080PX;
+    height: 590PX;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+h1{
+   
+    text-align: center;
+    color: rgb(223, 133, 14);
+    font-size: 40px;
+}
+             
+.banner-text{
+    width: 500px;
+    height: auto;
+   margin: auto;
+   position: absolute;
+   top: 250px;
+   left: 335px;
+   
+}
+.donate-button{
+    text-decoration: none;
+    position: absolute;
+    left: 200px;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 10px 20px;
+    color: white;
+}
+p{
+    color: rgb(20, 172, 214);
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+.donate-section{
+   width: 70%;
+   margin: auto;
+}
+.donate{
+   text-align: center;
+   margin-top: 20px;
+   display: flex;
+   margin-bottom: 40px;
+ 
+   
+}
+.qauter-width{
+width: 20%;
+height: auto;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 20px 10px 30px gray;
+}
+.qauter-width span{
+    font-weight: 400;
+    font-size: 30px;
+}
+#different{
+    background-color: antiquewhite;
+}
+.plan-section{
+    margin-top: 40px;
+    width: 90%;
+}
+.plan-section-text{
+    width: 691px;
+    height: 130px;
+  margin: auto;
+}
+.activities{
+    display: flex;
+  margin-left: 60px;
+  padding: 20px;
+ 
+  
+   
+}
+.activity{
+    border: 2px solid gainsboro;
+    height: 250px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 20px;
+}
+#food{
+background-color: antiquewhite;  
+}
+#shelter{
+    
+}
