@@ -132,3 +132,15 @@ background-color: antiquewhite;
     background-color: aquamarine;
    
 }
+/* footer section  */
+footer{
+    padding: 30px;
+    background-color: black;
+}
+footer h1{
+    text-align: center;
+    color: #e66767;
+}
+footer p{
+    text-align: center;
+}
