@@ -91,7 +91,7 @@ box-shadow: 20px 10px 30px gray;
 /* plan section start  */
 .plan-section{
     margin-top: 80px;
-    width: 90%;
+    width: 95%;
     margin-left: 50px;
 }
 .plan-section-text{
@@ -106,7 +106,7 @@ box-shadow: 20px 10px 30px gray;
 .activities{
     display: flex;
   
-  margin-left: 60px;
+  margin-left: 30px;
   padding: 20px;
   
  }
@@ -115,7 +115,7 @@ box-shadow: 20px 10px 30px gray;
     height: 250px;
     border-radius: 15px;
     margin: 10px;
-    padding: 20px;
+    padding: 30px;
 }
 .activity p{
     color: rgb(230, 171, 93);
