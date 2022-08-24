@@ -16,7 +16,7 @@ body{
 h1{
    
     text-align: center;
-    color: rgb(223, 133, 14);
+    color:#00b894;
     font-size: 40px;
 }
              
@@ -32,9 +32,18 @@ h1{
 .donate-button{
     text-decoration: none;
     position: absolute;
-    left: 200px;
+    left: 150px;
     border-radius: 10px;
     background-color: aqua;
+    padding: 10px 20px;
+    color: white;
+}
+.details-button{
+    text-decoration: none;
+    position: absolute;
+    left: 475px;
+    border-radius: 10px;
+    background-color: rgb(225, 40, 56);
     padding: 10px 20px;
     color: white;
 }
@@ -44,17 +53,23 @@ p{
 }
 h2{
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
+    color: chocolate;
 }
+/* donation section start  */
 .donate-section{
    width: 70%;
    margin: auto;
+}
+.donate-section p{
+    color: black;
 }
 .donate{
    text-align: center;
    margin-top: 20px;
    display: flex;
    margin-bottom: 40px;
+   
  
    
 }
@@ -73,23 +88,28 @@ box-shadow: 20px 10px 30px gray;
 #different{
     background-color: antiquewhite;
 }
+/* plan section start  */
 .plan-section{
-    margin-top: 40px;
+    margin-top: 80px;
     width: 90%;
+    margin-left: 50px;
 }
 .plan-section-text{
     width: 691px;
     height: 130px;
   margin: auto;
 }
+.plan-section-text p{
+    color: #303952;
+    
+}
 .activities{
     display: flex;
+  
   margin-left: 60px;
   padding: 20px;
- 
   
-   
-}
+ }
 .activity{
     border: 2px solid gainsboro;
     height: 250px;
@@ -97,8 +117,12 @@ box-shadow: 20px 10px 30px gray;
     margin: 10px;
     padding: 20px;
 }
+.activity p{
+    color: rgb(230, 171, 93);
+}
 #food{
-background-color: antiquewhite;  
+background-color: antiquewhite;
+
 }
 #shelter{
     background-color: cadetblue;
@@ -106,4 +130,5 @@ background-color: antiquewhite;
 }
 #education{
     background-color: aquamarine;
+   
 }
