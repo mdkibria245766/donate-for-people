@@ -1,6 +1,7 @@
 body{
     padding: 0;
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .text-center{
     text-align: center;
@@ -17,7 +18,7 @@ h1{
    
     text-align: center;
     color:#00b894;
-    font-size: 40px;
+    font-size: 30px;
 }
              
 .banner-text{
@@ -25,7 +26,7 @@ h1{
     height: auto;
    margin: auto;
    position: absolute;
-   top: 250px;
+   top: 200px;
    left: 335px;
    
 }
@@ -33,6 +34,7 @@ h1{
     text-decoration: none;
     position: absolute;
     left: 150px;
+   
     border-radius: 10px;
     background-color: aqua;
     padding: 10px 20px;
@@ -49,7 +51,7 @@ h1{
 }
 p{
     color: white;
-    font-size: 20px;
+   
 }
 h2{
     text-align: center;
@@ -106,7 +108,7 @@ box-shadow: 20px 10px 30px gray;
 .activities{
     display: flex;
   
-  margin-left: 30px;
+  margin-left: 20px;
   padding: 20px;
   
  }
@@ -114,7 +116,7 @@ box-shadow: 20px 10px 30px gray;
     border: 2px solid gainsboro;
     height: 250px;
     border-radius: 15px;
-    margin: 10px;
+    margin: 5px;
     padding: 30px;
 }
 .activity p{
